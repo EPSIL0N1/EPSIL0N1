@@ -1,3 +1,5 @@
+![MasterHead](https://rajappliancesawsbucket.s3.ap-south-1.amazonaws.com/github_banner2.png)
+
 # 💫 About Me:
 👋 Hey there! I'm Sourik !<br>🔍 Currently diving deep into the world of Computer Vision with a focus on Deep Fake Generation!<br>🚀 Always on the lookout for innovative collaborations – let’s create something cool together!<br><br>🌱 Learning:<br><br>🛠️ DevOps<br>🎨 3D Magic with 3js<br>💡 Fun Fact: I can turn any idea into a creative masterpiece! 🎨✨<br><br>💻 Tech Stack:<br><br>Languages: Python 🐍 | Java ☕ | SQL 📊 | JavaScript ✨<br>Technologies: HTML/CSS 🎨 | React.js ⚛️ | Spring Boot 🌱 | Strapi 🚀 | Flask 🌶️ | Node.js 🌐 | Express.js 🚄 | MySQL 💾<br>Others: AI/ML 🤖 | Deep Learning 🧠 | Git/GitHub 👨‍💻<br>Let's build the future, one line of code at a time! 🌐👾
 
