@@ -1,4 +1,4 @@
-![MasterHead](https://rajappliancesawsbucket.s3.ap-south-1.amazonaws.com/github_banner2.png)
+![MasterHead](https://res.cloudinary.com/dbm4h7bsa/image/upload/v1742755070/vtnnmkcjltl2rqfqd3tv.webp)
 
 # 💫 About Me:
 👋 Hey there! I'm Sourik !<br>🔍 Currently diving deep into the world of Computer Vision with a focus on Deep Fake Generation!<br>🚀 Always on the lookout for innovative collaborations – let’s create something cool together!<br><br>🌱 Learning:<br><br>🛠️ DevOps<br>🎨 3D Magic with 3js<br>💡 Fun Fact: I can turn any idea into a creative masterpiece! 🎨✨<br><br>Let's build the future, one line of code at a time! 🌐👾
